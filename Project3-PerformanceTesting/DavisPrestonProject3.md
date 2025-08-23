@@ -67,3 +67,9 @@ The Apdex score ranges between 1 and 0. Receiving a 1 means all users were satis
 <video width="600" controls>
   <source src="./videos/jmeter_demo.mp4" type="video/mp4">
 </video>
+
+## Conclusion
+
+I learned quite a bit about APIs in previous courses, and they were so confusing to me for a long time. But now that I understand them, they really are quite simple! I like how easy JMeter makes it to add a HTTP request and how easy it is to understand where to put all the configurations to make the request work. I hadn't known really anything at all about performance testing before this project, but I'm glad this project existed to help me learn about it! I think the most important thing I learned is that performance testing isn't just a "nice to have" once your application is finished, but it's an essential part of testing that you need to do to make sure your application doesn't crash under certain loads once it's released to public users.
+
+I don't have much feedback that would help improve this assignment, but I do have good feedback. I like how part one has you research the important performance tests and the basics of JMeter. I feel like when I got to part two, I had no issues feeling confident using JMeter because part one prepared me pretty well!
